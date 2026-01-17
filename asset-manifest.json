@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HebdaMarta/react-lab/static/css/main.3e434423.css",
+    "main.js": "/HebdaMarta/react-lab/static/js/main.edb5c98f.js",
+    "static/js/453.07a360c5.chunk.js": "/HebdaMarta/react-lab/static/js/453.07a360c5.chunk.js",
+    "index.html": "/HebdaMarta/react-lab/index.html",
+    "main.3e434423.css.map": "/HebdaMarta/react-lab/static/css/main.3e434423.css.map",
+    "main.edb5c98f.js.map": "/HebdaMarta/react-lab/static/js/main.edb5c98f.js.map",
+    "453.07a360c5.chunk.js.map": "/HebdaMarta/react-lab/static/js/453.07a360c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e434423.css",
+    "static/js/main.edb5c98f.js"
+  ]
+}
